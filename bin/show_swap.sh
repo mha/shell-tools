@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Shows swap usage per process
-# mhammer@zendesk.com, 2012/09/14
 
 SELECT_PID=${1}
 FIND_NAME=""
